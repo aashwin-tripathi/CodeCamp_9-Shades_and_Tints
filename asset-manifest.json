@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeCamp_9-Shades_and_Tints/static/css/main.f6e8d1ab.chunk.css",
+    "main.js": "/CodeCamp_9-Shades_and_Tints/static/js/main.55176fba.chunk.js",
+    "main.js.map": "/CodeCamp_9-Shades_and_Tints/static/js/main.55176fba.chunk.js.map",
+    "runtime-main.js": "/CodeCamp_9-Shades_and_Tints/static/js/runtime-main.7b525674.js",
+    "runtime-main.js.map": "/CodeCamp_9-Shades_and_Tints/static/js/runtime-main.7b525674.js.map",
+    "static/js/2.11f691c1.chunk.js": "/CodeCamp_9-Shades_and_Tints/static/js/2.11f691c1.chunk.js",
+    "static/js/2.11f691c1.chunk.js.map": "/CodeCamp_9-Shades_and_Tints/static/js/2.11f691c1.chunk.js.map",
+    "index.html": "/CodeCamp_9-Shades_and_Tints/index.html",
+    "precache-manifest.d89a2798ce560f532705ac37bc084650.js": "/CodeCamp_9-Shades_and_Tints/precache-manifest.d89a2798ce560f532705ac37bc084650.js",
+    "service-worker.js": "/CodeCamp_9-Shades_and_Tints/service-worker.js",
+    "static/css/main.f6e8d1ab.chunk.css.map": "/CodeCamp_9-Shades_and_Tints/static/css/main.f6e8d1ab.chunk.css.map",
+    "static/js/2.11f691c1.chunk.js.LICENSE.txt": "/CodeCamp_9-Shades_and_Tints/static/js/2.11f691c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b525674.js",
+    "static/js/2.11f691c1.chunk.js",
+    "static/css/main.f6e8d1ab.chunk.css",
+    "static/js/main.55176fba.chunk.js"
+  ]
+}
